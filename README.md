@@ -2,9 +2,9 @@
 
 ## Biografia 
 
-##### Estudante de Análise e Desenvolvimento de sistemas, começando meus primeiros projetos e em busca de estágio. 
+#### Estudante de Análise e Desenvolvimento de sistemas, começando meus primeiros projetos e em busca de estágio. 
 
-Possuo conhecimentos básicos em:
+#### Possuo conhecimentos básicos em:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
