@@ -2,7 +2,7 @@
 
 ## Biografia 
 
-#### Estudante de Análise e Desenvolvimento de sistemas, começando meus primeiros projetos e em busca de estágio. 
+#### Estudante de Análise e Desenvolvimento de sistemas começando meus primeiros projetos. 
 
 #### Possuo conhecimentos básicos em:
 
